@@ -1,0 +1,35 @@
+What is the difference between lists and tuples in Python?
+What are the key features of Python?
+What type of language is Python?
+How is Python an interpreted language?
+What do you know about pep 8?
+How is memory managed in Python?
+Describe the usage of the strip() function in Python.
+What do you know about namespace in Python?
+What do you know about Python PATH?
+Describe the usage of the replace() function in Python.
+What are Python modules?
+Describe the usage of the eval() function in Python.
+What are local and global variables in Python?
+What do you know about the map function in Python?
+What are the min() and max() functions in Python? What do they do?
+Describe the usage of the join() function in Python.
+What do you know about pickling and unpickling?
+How would you generate random numbers in Python?
+Explain split(), sub(), subn() methods of “re” module in Python.
+Describe the usage of the getattr() function in Python.
+How would you capitalize the first letter of string?
+What are the upper() and lower() functions in Python?
+What do you know about using help() and dir() functions in Python?
+Describe the usage of the reduce() function in Python.
+What are docstrings in Python?
+How would you convert a string to all lowercase?
+Describe the usage of the round() function in Python.
+How would you randomize the items of a list in place in Python?
+Describe the usage of the sorted() function in Python.
+What are Python iterators?
+How does break, continue and pass work?
+What do you know about the difference between range & xrange?
+Describe the usage of the split() function in Python.
+What do you know about the difference between Python Arrays and lists?
+Is indentation required in Python?
